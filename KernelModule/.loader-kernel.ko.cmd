@@ -1,0 +1,1 @@
+cmd_/disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/loader-kernel.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/loader-kernel.ko /disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/loader-kernel.o /disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/loader-kernel.mod.o;  true

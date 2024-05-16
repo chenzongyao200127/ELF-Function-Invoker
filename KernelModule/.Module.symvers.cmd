@@ -1,0 +1,1 @@
+cmd_/disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/Module.symvers := sed 's/\.ko$$/\.o/' /disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/modules.order | scripts/mod/modpost -m -a  -o /disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/Module.symvers -e -i Module.symvers   -T -

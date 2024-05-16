@@ -1,0 +1,1 @@
+cmd_/disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/hello-kernel.mod := { echo  /disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/hello-kernel.o;  echo; } > /disk2/chenzy/ELF/ELF-Function-Invoker/KernelModule/hello-kernel.mod
